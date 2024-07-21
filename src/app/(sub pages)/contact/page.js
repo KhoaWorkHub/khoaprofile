@@ -24,7 +24,7 @@ export default function Contact() {
           </h1>
           <p className="text-center font-light text-sm xs:text-base">
             Step into the circle of enchantment and weave your words into the
-            fabric of the cosmos. Whether you seek to conjure collaborations,
+            fabric of the cosmos. Whether you seek to conjure hiring me,
             unlock mysteries, or simply share tales of adventure, your messages
             are treasured scrolls within this realm. Use the form below to send
             your missives through the ethereal network, and await the whisper of
