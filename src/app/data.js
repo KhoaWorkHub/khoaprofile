@@ -33,7 +33,7 @@ export const projectsData = [
   },
   {
     id: 3,
-    name: "Discord Clone",
+    name: "App Chat & Video Call",
     description: "Realtime chat application with rooms and users | Github: https://github.com/KhoaWorkHub/WorkHub ",
     date: "2024-07-10",
     demoLink: "https://khoawork-hub.vercel.app/",
