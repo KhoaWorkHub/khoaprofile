@@ -26,18 +26,26 @@ export const projectsData = [
   },
   {
     id: 2,
-    name: "Ticket System",
+    name: "Ticket Selling System",
     description: "Selling tickets with restfulApi",
     date: "2024-01-20",
     demoLink: "https://github.com/KhoaWorkHub/ticket-demo",
   },
   {
     id: 3,
-    name: "Discord Clone",
-    description: "Realtime chat application with rooms and users",
+    name: "App Chat & Video Call",
+    description: "Realtime chat application with rooms and users | Github: https://github.com/KhoaWorkHub/WorkHub ",
     date: "2024-07-10",
-    demoLink: "https://github.com/KhoaWorkHub/WorkHub",
+    demoLink: "https://khoawork-hub.vercel.app/",
   },
+
+  {
+    id: 4,
+    name: "Portfolio Website",
+    description: "My personal portfolio website | Github: https://github.com/KhoaWorkHub/khoaprofile",
+    date: "2024-07-14",
+    demoLink: "https://khoaportfolio.vercel.app/",
+  }
 
 ];
 
