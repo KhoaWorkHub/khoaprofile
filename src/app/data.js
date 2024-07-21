@@ -26,7 +26,7 @@ export const projectsData = [
   },
   {
     id: 2,
-    name: "Ticket System",
+    name: "Ticket Selling System",
     description: "Selling tickets with restfulApi",
     date: "2024-01-20",
     demoLink: "https://github.com/KhoaWorkHub/ticket-demo",
